@@ -3,3 +3,4 @@
 Đây là nội dung của máy A đang code.
 Đây là nội dung của máy C mới commit.
 Đây là chức năng login.
+Da fig bug
