@@ -1,3 +1,4 @@
 Đây là nội dung mới
 Đây là dung được thay đổi bởi máy B
 Đây là nội dung của máy A đang code.
+Đây là nội dung của máy C mới commit
